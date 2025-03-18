@@ -30,8 +30,8 @@ plt.axis("off")
 plt.title("Most Popular TikTok Hashtags")
 plt.show()
 ```
-
 🖼️ This visualization helps identify the most used hashtags in viral videos.
+
 
 ### **2️⃣ Engagement Metrics: Likes, Shares & Comments Analysis**
 - **Calculated engagement rates** based on likes, comments, and shares.
