@@ -30,3 +30,8 @@ plt.axis("off")
 plt.title("Most Popular TikTok Hashtags")
 plt.show()
 
+🖼️ This visualization helps identify the most used hashtags in viral videos.
+
+
+
+
