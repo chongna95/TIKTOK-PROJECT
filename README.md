@@ -32,6 +32,9 @@ plt.show()
 
 🖼️ This visualization helps identify the most used hashtags in viral videos.
 
-
+### **2️⃣ Engagement Metrics: Likes, Shares & Comments Analysis**
+- **Calculated engagement rates** based on likes, comments, and shares.
+- Identified patterns of **high-performing videos vs. low-performing videos**.
+📌 **Example Visualization: Engagement Rate by Video Category**
 
 
