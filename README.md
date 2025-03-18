@@ -36,6 +36,22 @@ plt.show()
 ### **2️⃣ Engagement Metrics: Likes, Shares & Comments Analysis**
 - **Calculated engagement rates** based on likes, comments, and shares.
 - Identified patterns of **high-performing videos vs. low-performing videos**.
+
 📌 **Example Visualization: Engagement Rate by Video Category**
+```python
+import seaborn as sns
+
+plt.figure(figsize=(10,5))
+sns.boxplot(x=df['category'], y=df['engagement_rate'], palette="coolwarm")
+plt.title("Engagement Rate by TikTok Video Category")
+plt.xticks(rotation=45)
+plt.show()
+```
+🖼️ This boxplot shows which video categories get the highest engagement.
+
+
+
+
+
 
 
